@@ -399,7 +399,7 @@ A: Key security aspects include:
 2. Access control through file system permissions when attached
 3. More secure than FIFOs for inter-process communication
 
-
+```c
 /*
  * Classic IPC Problems and Solutions
  * ---------------------------------
